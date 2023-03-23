@@ -4,6 +4,7 @@ import Banner from './components/Banner';
 import Header from './components/Header';
 import Container from './components/Container';
 import Card from './components/Card';
+// import videos from "./json/db.json"
 
 function App() {
   return (
@@ -13,7 +14,7 @@ function App() {
       <Container>
         <h2>Anime</h2>
         <section className='cards'>
-          <Card id="8SmUtPubCEk"/> {/* Naruto */} 
+        <Card id="8SmUtPubCEk"/> {/* Naruto */} 
           <Card id="gbotYhHcpYE"/> {/* Pokemon */}
           <Card id="HDLqvuethDo"/> {/* Digimon */}
           <Card id="ejdz3mgXVdY"/> {/* Dragon Ball GT */}
