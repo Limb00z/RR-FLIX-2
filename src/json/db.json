@@ -3,30 +3,126 @@
         "id":"8SmUtPubCEk",
         "title":"Naruto",
         "cover":"https://img.youtube.com/vi/8SmUtPubCEk/mqdefault.jpg",
-        "url":"https://www.youtube.com/watch?v=8SmUtPubCEk"
+        "url":"https://www.youtube.com/watch?v=8SmUtPubCEk",
+        "category":"Animes"
     },
     {
         "id":"gbotYhHcpYE",
         "title":"Pokemon",
         "cover":"https://img.youtube.com/vi/gbotYhHcpYE/mqdefault.jpg",
-        "url":"https://www.youtube.com/watch?v=gbotYhHcpYE"
+        "url":"https://www.youtube.com/watch?v=gbotYhHcpYE",
+        "category":"Animes"
     },
     {
         "id":"HDLqvuethDo",
         "title":"Digimon",
         "cover":"https://img.youtube.com/vi/HDLqvuethDo/mqdefault.jpg",
-        "url":"https://www.youtube.com/watch?v=HDLqvuethDo"
+        "url":"https://www.youtube.com/watch?v=HDLqvuethDo",
+        "category":"Animes"
     },
     {
         "id":"aspSzualMeE",
         "title":"Dragon Ball GT",
-        "cover":"https://www.youtube.com/watch?v=aspSzualMeE/mqdefault.jpg",
-        "url":"https://www.youtube.com/watch?v=aspSzualMeE"
+        "cover":"https://img.youtube.com/vi/aspSzualMeE/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=aspSzualMeE",
+        "category":"Animes"
     },
     {
         "id":"2eqJA2xN8nA",
         "title":"Attack on Titan",
         "cover":"https://img.youtube.com/vi/2eqJA2xN8nA/mqdefault.jpg",
-        "url":"https://www.youtube.com/watch?v=2eqJA2xN8nA"
+        "url":"https://www.youtube.com/watch?v=2eqJA2xN8nA",
+        "category":"Animes"
+    },
+    {
+        "id":"B4FU3NFRTDw",
+        "title":"Guanabara",
+        "cover":"https://img.youtube.com/vi/B4FU3NFRTDw/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=B4FU3NFRTDw",
+        "category":"Programação"
+    },
+    {
+        "id":"me0ZDRRVWLI",
+        "title":"Alura",
+        "cover":"https://img.youtube.com/vi/me0ZDRRVWLI/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=me0ZDRRVWLI",
+        "category":"Programação"
+    },
+    {
+        "id":"E4DBTqgxHGM",
+        "title":"CFB Cursos",
+        "cover":"https://img.youtube.com/vi/E4DBTqgxHGM/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=E4DBTqgxHGM&t",
+        "category":"Programação"
+    },
+    {
+        "id":"27MGFFJxpe0",
+        "title":"Devaria",
+        "cover":"https://img.youtube.com/vi/27MGFFJxpe0/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=27MGFFJxpe0",
+        "category":"Programação"
+    },
+    {
+        "id":"KsFLXOTflsM",
+        "title":"Professor Edson Maia",
+        "cover":"https://img.youtube.com/vi/KsFLXOTflsM/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=KsFLXOTflsM",
+        "category":"Programação"
+    },
+    {
+        "id":"o_ws3G-QO8E",
+        "title":"Muay-Thai",
+        "cover":"https://img.youtube.com/vi/o_ws3G-QO8E/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=o_ws3G-QO8E",
+        "category":"Esportes"
+    },
+    {
+        "id":"wGyjXkbj3fg",
+        "title":"Judô",
+        "cover":"https://img.youtube.com/vi/wGyjXkbj3fg/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=wGyjXkbj3fg",
+        "category":"Esportes"
+    },
+    {
+        "id":"0QDgz6cD4LQ",
+        "title":"Jiu-Jitsu",
+        "cover":"https://img.youtube.com/vi/0QDgz6cD4LQ/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=0QDgz6cD4LQ",
+        "category":"Esportes"
+    },
+    {
+        "id":"dY1eKoANGa8",
+        "title":"Trilha",
+        "cover":"https://img.youtube.com/vi/dY1eKoANGa8/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=dY1eKoANGa8",
+        "category":"Esportes"
+    },
+    {
+        "id":"0ffti2cQoUA",
+        "title":"Airsoft",
+        "cover":"https://img.youtube.com/vi/0ffti2cQoUA/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=0ffti2cQoUA",
+        "category":"Lazer"
+    },
+    {
+        "id":"BtFHTJZuOWE",
+        "title":"Leitura",
+        "cover":"https://img.youtube.com/vi/BtFHTJZuOWE/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=BtFHTJZuOWE",
+        "category":"Lazer"
+    },
+    {
+        "id":"LkcoqZxPj5A",
+        "title":"Família",
+        "cover":"https://img.youtube.com/vi/LkcoqZxPj5A/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=LkcoqZxPj5A",
+        "category":"Lazer"
+    },
+    {
+        "id":"OhVOcYLMbpw",
+        "title":"Deus",
+        "cover":"https://img.youtube.com/vi/OhVOcYLMbpw/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=OhVOcYLMbpw",
+        "category":"Lazer"
     }
 ]
