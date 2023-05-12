@@ -25,21 +25,14 @@ function App() {
       <Banner imagem={"home"}/>
       <Container>
 
-        <Category category={'Animes'}>
-          {filtrarCategoria(0).map((video) => <Card id={video.id} key={video.id} />)} 
-        </Category>
-
-        <Category category={'Programação'}>
-          {filtrarCategoria(1).map((video) => <Card id={video.id} key={video.id} />)} 
-        </Category>
-
-        <Category category={'Esportes'}>
-          {filtrarCategoria(2).map((video) => <Card id={video.id} key={video.id} />)} 
-        </Category>
-
-        <Category category={'Lazer'}>
-          {filtrarCategoria(3).map((video) => <Card id={video.id} key={video.id} />)} 
-        </Category>
+        {
+          categorias.map((category, index) =>
+            <Category category={category}>
+              {filtrarCategoria(index).map((video) =>
+                <Card id={video.id} key={video.id} /> )}
+            </Category>
+          )
+        }
 
       </Container>
       <Footer/>
