@@ -4,19 +4,7 @@ import Banner from './components/Banner';
 import Header from './components/Header';
 import Container from './components/Container';
 import Card from './components/Card';
-import videos from "./json/db.json"
-import Category from './components/Category';
-
-const categorias = [
-  "Animes",
-  "Programação",
-  "Esportes",
-  "Lazer"
-]
-
-function filtrarCategoria(id) {
-  return videos.filter( video => video.category === categorias[id])
-}
+import Category,{categorias, filtrarCategoria} from './components/Category';
 
 function App() {
   return (
