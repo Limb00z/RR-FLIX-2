@@ -11,6 +11,7 @@ export default function Header(){
       <nav>
         <Link to={"/"}>Home</Link>
         <Link to={"/assistir"}>Assistir</Link>
+        <Link to={"/busca"}>Pesquisar</Link>
       </nav>
     </header>
   );
