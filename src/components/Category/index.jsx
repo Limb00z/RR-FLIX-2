@@ -16,9 +16,9 @@ export default function Category({category,children}) {
     return (
         <section className={styles.category}>
             <h2>{category}</h2>
-            <section>
+            <div>
                {children}
-            </section>
+            </div>
         </section>
     )
 }

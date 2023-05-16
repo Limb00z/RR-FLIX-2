@@ -1,10 +1,10 @@
 .banner{
   width: 100%; /*192 x 347px */
-  height: 347px;
-  /* background-image: url('/img/banner-home.png'); */
+  height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding-top: 68px
+  padding-top: 68px;
+  overflow: hidden;
 
 }
