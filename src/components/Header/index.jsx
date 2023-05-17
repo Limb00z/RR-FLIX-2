@@ -12,6 +12,7 @@ export default function Header(){
         <Link to={"/"}>Home</Link>
         <Link to={"/assistir"}>Assistir</Link>
         <Link to={"/busca"}>Pesquisar</Link>
+        <Link to={"/favoritos"}>Favoritos</Link>
       </nav>
     </header>
   );
