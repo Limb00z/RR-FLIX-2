@@ -7,6 +7,34 @@
         "category":"Animes"
     },
     {
+        "id":"nbI1azBBVKo",
+        "title":"Yu Yu Hakusho",
+        "cover":"https://img.youtube.com/vi/nbI1azBBVKo/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=nbI1azBBVKo",
+        "category":"Animes"
+    },
+    {
+        "id":"AXncE4q9s5I",
+        "title":"Cavaleiros do Zodíaco",
+        "cover":"https://img.youtube.com/vi/AXncE4q9s5I/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=AXncE4q9s5I",
+        "category":"Animes"
+    },
+    {
+        "id":"yI6v5-61VRU",
+        "title":"Death Note",
+        "cover":"https://img.youtube.com/vi/yI6v5-61VRU/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=yI6v5-61VRU",
+        "category":"Animes"
+    },
+    {
+        "id":"4yyc20oe-YU",
+        "title":"Super Campeões",
+        "cover":"https://img.youtube.com/vi/4yyc20oe-YU/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=4yyc20oe-YU",
+        "category":"Animes"
+    },
+    {
         "id":"gbotYhHcpYE",
         "title":"Pokemon",
         "cover":"https://img.youtube.com/vi/gbotYhHcpYE/mqdefault.jpg",
@@ -70,6 +98,20 @@
         "category":"Programação"
     },
     {
+        "id":"Md3l0EkNCUE",
+        "title":" Origamid ",
+        "cover":"https://img.youtube.com/vi/Md3l0EkNCUE/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=Md3l0EkNCUE",
+        "category":"Programação"
+    },
+    {
+        "id":"kirjakF8yh4",
+        "title":"Tiger Codes",
+        "cover":"https://img.youtube.com/vi/kirjakF8yh4/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=kirjakF8yh4",
+        "category":"Programação"
+    },
+    {
         "id":"o_ws3G-QO8E",
         "title":"Muay-Thai",
         "cover":"https://img.youtube.com/vi/o_ws3G-QO8E/mqdefault.jpg",
@@ -123,6 +165,20 @@
         "title":"Deus",
         "cover":"https://img.youtube.com/vi/OhVOcYLMbpw/mqdefault.jpg",
         "url":"https://www.youtube.com/watch?v=OhVOcYLMbpw",
+        "category":"Lazer"
+    },
+    {
+        "id":"CS42V_tCCbE",
+        "title":"Jogar PlayStation",
+        "cover":"https://img.youtube.com/vi/CS42V_tCCbE/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=CS42V_tCCbE",
+        "category":"Lazer"
+    },
+    {
+        "id":"QupMm68T4PI",
+        "title":"Praia",
+        "cover":"https://img.youtube.com/vi/QupMm68T4PI/mqdefault.jpg",
+        "url":"https://www.youtube.com/watch?v=QupMm68T4PI",
         "category":"Lazer"
     }
 ]
