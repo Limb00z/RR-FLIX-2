@@ -14,7 +14,7 @@ export default function FavoritosProvider({ children }) {
 }
 
 //Hook personalizado
-export function useFavoritos() {
+export function useFavoritoContext() {
   const { favorito, setFavorito } = useContext(FavoritosContext);
 
   function addFavorito(novoFavorito) {
