@@ -2,12 +2,15 @@ import { Link } from "react-router-dom";
 import styles from "./Card.module.css";
 import iconUnFavorite from "./unfavorite.png"
 import iconFavorite from "./favorite.png"
-import { useContext } from "react";
 import { useFavoritoContext } from "../../contexts/Favoritos";
 
 export default function Card({ id }) {
   
-  const {favorito, addFavorito} = useFavoritoContext()
+  const { favorito, addFavorito } = useFavoritoContext();
+  
+  const ehFavorito = favorito.some((fav) => fav.id === id);
+
+  const mudaIcone = ehFavorito ? iconUnFavorite : iconFavorite
   
   return (
     <section className={styles.card}>
