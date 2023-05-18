@@ -10,7 +10,7 @@ export default function Card({ id }) {
   
   const ehFavorito = favorito.some((fav) => fav.id === id);
 
-  const mudaIcone = ehFavorito ? iconUnFavorite : iconFavorite
+  const mudaIcone = !ehFavorito ? iconFavorite : iconUnFavorite
   
   return (
     <section className={styles.card}>
@@ -23,7 +23,7 @@ export default function Card({ id }) {
       </Link>
           <figure className={styles.icon}>
         <img
-          src={iconFavorite}
+          src={mudaIcone}
           alt="icone de coração, favorito"
           onClick={() => addFavorito({id})}  
         />
