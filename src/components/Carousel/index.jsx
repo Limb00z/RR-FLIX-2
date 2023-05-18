@@ -7,8 +7,8 @@ export default function Carousel({ children }) {
     
         const settings = {
           dots: false,
-          infinite: false,
-          speed: 300,
+          infinite: true,
+          speed: 400,
           centerMode: false,
           variableWidth: true,
           adaptativeHeight: true,
