@@ -14,12 +14,13 @@ export default function Form() {
                     />
                 </div>
                 <div>
-                    <label htmlFor=""></label>
+                    <label></label>
                     <select>
                         <option value="-" selected>Selecione uma categoria</option>
                     </select>
                 </div>
             </form>
+            <button>Cadastrar</button>
         </section>
     )
 }
