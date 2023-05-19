@@ -1,6 +1,6 @@
 import styles from "./Form.module.css"
 
-function Form() {
+export default function Form() {
     return (
         <section className={styles.container}>
             <h2>Cadastro de vídeo</h2>
