@@ -6,10 +6,22 @@ export default function Form() {
 
     const [url, setUrl] = useState('')
     const [categoria, setCategoria] = useState('')
+    const [videos, setVideos] = useState([])
+    const [errors, setErrors]= useState('')
 
     function onSave(e) {
         e.preventDefault();
-        console.log(url,categoria);
+
+        //guardar a url e a categoria
+        const newVideo = { url, categoria }
+        setVideos([...videos, newVideo])
+
+        localStorage.setItem('videos', JSON.stringify([...videos, newVideo]))
+
+        //limpar o formulario
+        setUrl('')
+        setCategoria('')
+        
     }
 
     return (
