@@ -11,7 +11,6 @@ export default function Busca() {
             <Header />
             <Container>
             <section className={styles.busca}>
-                    <h2>Pesquisar </h2>
                     <BuscaVideos videos={videos} />
             </section>
             </Container>

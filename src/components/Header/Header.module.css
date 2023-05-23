@@ -1,4 +1,4 @@
-.header{
+.header {
   background-color: black;
   border-bottom: 2px solid #f44336;
   position: fixed;
@@ -12,13 +12,13 @@
   z-index: 999;
 }
 
-.header span{
+.header span {
   font-size: 2rem;
   color: #b71c1c;
   font-weight: 500;
 }
 
-.header a{
+.header a {
   text-decoration: none;
   color: #fff;
   padding-inline: 0.5rem;
@@ -27,12 +27,15 @@
 
 body {
   margin: 0;
+}
+
+@media (max-width: 480px ) {
+  .header span{
+    font-size:1.2rem;
   }
-  
-  .cards{
-      display: flex;
-      flex-wrap: wrap;
-      overflow: hidden;
-      gap: 5px;
-      justify-content: center;
+  .header a{
+    font-size: .75rem;
+    padding-inline: .5rem;
   }
+}
+

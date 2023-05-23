@@ -3,3 +3,9 @@
     color: #f44336;
     font-size: 2rem;
 }
+
+@media (max-width: 880px ) {
+    .slick-prev, .slick-next{
+       display: none;
+    }
+}

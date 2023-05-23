@@ -6,7 +6,7 @@ export default function Header(){
   return(
     <header className={styles.header}>
       <Link to={"/"}>
-        <span>RR-Flix</span>
+        <span>RR Flix</span>
       </Link>
       <nav>
         <Link to={"/"}>Home</Link>

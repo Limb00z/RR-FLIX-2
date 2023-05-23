@@ -9,7 +9,7 @@ export default function Carousel({ children }) {
           dots: false,
           infinite: true,
           speed: 400,
-          centerMode: false,
+          centerMode: true,
           variableWidth: true,
           adaptativeHeight: true,
           slidesToShow: 3,

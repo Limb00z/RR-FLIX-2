@@ -1,3 +1,25 @@
 .assistir{
     padding-top: 84px;
 }
+
+@media (max-width: 480px ) {
+    .assistir iframe{
+         width:  300px;
+         height:  250px; 
+    }
+}
+
+@media (min-width: 760px  ) {
+    .assistir iframe{
+        width: 700px;
+        height: 550px;
+    }
+
+}
+
+@media (min-width: 980px) {
+    .assistir iframe{
+        width: 900px;
+        height: 525px;
+    }
+}

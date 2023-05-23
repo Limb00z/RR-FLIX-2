@@ -14,3 +14,9 @@
     transform: scale(1.5);
 }
 
+@media (max-width: 480px) {
+    img{
+        width: 80%;
+    }
+}
+

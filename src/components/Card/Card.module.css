@@ -3,7 +3,9 @@
     flex-direction: column;
     align-items: flex-end;
     justify-content: flex-end;
+    margin-left: 15px;
 }
+
 
 .capa{
     width: 250px;
@@ -37,4 +39,10 @@
 
 .icon img{
     width: 20px;
+}
+
+@media (max-width: 480px ) {
+    .capa{
+        width: 200px;
+    }
 }
